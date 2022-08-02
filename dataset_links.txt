@@ -1,0 +1,7 @@
+Datasets used:
+
+1) SpotifyFeatures.csv: 
+https://www.kaggle.com/datasets/priyayasaswini/music-r
+
+2) artists.csv and tracks.csv:
+https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets
